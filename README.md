@@ -35,3 +35,4 @@ The above visualisation is done using matplotlib in python
 ![](output3_c100_time.png)
 # For c=1000
 ![](output3_c10_time.png)
+![](output2_mem.png)
