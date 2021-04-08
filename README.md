@@ -48,5 +48,17 @@ The above visualisation is done using matplotlib in python
 
 
 ## Analysis of results
+* The time of execution of the algorithm for different penality is independent of cost of introducing a new line segment
+* Since in our code we have included the data structures as global, the heap memory is unaffected by the size of Input n
 
+## Time Complexity of Algorithm
+* O(n^2)
 
+## Space Complexity of Algorithm
+* O(n^2)
+
+## Team Members
+* Godhala Meganaa 2017B3A70973H
+* Suhas Reddy Nacherla 2017B4A70885H
+* Vashisht SLN 2017B3A70381H
+* Pranav Sai Itapu 2017B3A70381H
