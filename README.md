@@ -34,7 +34,7 @@ The above visualisation is done using matplotlib in python
 
 ### Testcase 2
 
-![](output2_time.png)
+![](output3_c10_time.png)
 ![](output2_mem.png)
 
 ### Testcase 3
